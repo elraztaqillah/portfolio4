@@ -1,4 +1,4 @@
-Intro
+<h1><b>Intro</b></h1>
 <hr>
 
 hi everyone! this website builds with bootstrap4, bootstrap is a CSS framework in building a web.
