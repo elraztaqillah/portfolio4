@@ -11,13 +11,13 @@ please feedback and click star(top right corner) to support me :)
 
 <h2><b>Example, add navbar bootstrap</b></h2>
 
-<p><body
+<p><body</p>
 
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+   <p> <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark"></p>
   
-      <div class="container"> 
+   <p>   <div class="container"> </p>
 
-  </body</p>
+ <p> </body</p>
           
 <h2><b>Demo</b></h2>
 
