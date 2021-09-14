@@ -1,6 +1,6 @@
 <h2><b>Intro</b></h2>
 
-hi everyone! this website builds with bootstrap4, bootstrap is a CSS framework in building a web.
+Hi everyone! this website builds with bootstrap4, bootstrap is a CSS framework in building a web.
 
 please feedback and click star(top right corner) to support me :)
 
