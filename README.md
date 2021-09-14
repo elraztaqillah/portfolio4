@@ -12,7 +12,7 @@ please feedback and click star(top right corner) to support me :)
 <h2><b>Example, add navbar bootstrap</b></h2>
 
 
-<!-- <body class="mt-5"> -->
+<body
 
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   
@@ -32,7 +32,7 @@ please feedback and click star(top right corner) to support me :)
         </div>
       </div>
   </nav>
-<!-- </body> -->
+</body
 
 
 <h2><b>Demo</b></h2>
