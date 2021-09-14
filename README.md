@@ -2,7 +2,7 @@
 
 Hi everyone! this website builds with bootstrap4, bootstrap is a CSS framework in building a web.
 
-please feedback and click star(top right corner) to support me :)
+please feedback and click star(top right corner) to support me. Thank you :)
 
 <h2><b>Getting Started</b></h2>
 
