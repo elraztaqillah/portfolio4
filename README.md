@@ -11,14 +11,8 @@ please feedback and click star(top right corner) to support me :)
 
 <h2><b>Example, add navbar bootstrap</b></h2>
 
-body
-
- <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-  
- <div class="container"> 
-
-
-          
+![image](https://user-images.githubusercontent.com/76187141/133281457-18cdc287-fc6e-4d26-829b-2031d18ce7c7.png)
+         
 <h2><b>Demo</b></h2>
 
 ![image](https://user-images.githubusercontent.com/76187141/133266178-6ab26859-5414-4f81-93ad-41c8d41c4402.png)
