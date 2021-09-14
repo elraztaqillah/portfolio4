@@ -13,9 +13,9 @@ please feedback and click star(top right corner) to support me :)
 
 body
 
-<p> <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark"></p>
+ <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
   
-<p>   <div class="container"> </p>
+ <div class="container"> 
 
 
           
